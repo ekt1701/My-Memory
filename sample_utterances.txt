@@ -1,0 +1,23 @@
+getInfoIntent tell me {Info}
+getInfoIntent tell me about {Info}
+getInfoIntent when did I go to {Info}
+getInfoIntent when did {Info} happen
+getInfoIntent when is {Info}
+getInfoIntent where is {Info}
+getInfoIntent {Info}
+getInfoIntent where did i put {Info}
+getInfoIntent where did i hide {Info}
+getInfoIntent find {Info}
+
+getLengthIntent how long ago was {Length}
+getLengthIntent calculate time {Length}
+getLengthIntent how long {Length}
+getLengthIntent calculate {Length}
+
+AMAZON.NoIntent nothing
+AMAZON.NoIntent no thank you
+AMAZON.NoIntent nothing else
+
+
+AMAZON.HelpIntent i dont know
+AMAZON.HelpIntent help me
