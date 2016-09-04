@@ -71,7 +71,7 @@ def on_intent(intent_request, session):
     elif intent_name == "AMAZON.NoIntent" or intent_name == "AMAZON.StopIntent":
         return handle_session_end_request()
     elif intent_name == "AMAZON.HelpIntent":
-        return get_welcome_response()
+        return get_help()
     elif intent_name == "AMAZON.CancelIntent":
         return get_welcome_response()
     else:
